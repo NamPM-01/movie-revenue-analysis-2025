@@ -22,3 +22,7 @@ Phân tích dữ liệu doanh thu phim trong năm 2025 theo:
 - Tháng 8 là tháng có doanh thu cao nhất (nhờ Galaxy Studio)
 - CJ Entertainment có số rạp lớn nhưng doanh thu không cao → hiệu suất thấp
 - Số lượng rạp nhiều không đảm bảo doanh thu nếu nhu cầu thị trường thấp
+### Files
+- `movie_analysis.ipynb` — notebook phân tích
+- `data.csv` — dữ liệu gốc
+
