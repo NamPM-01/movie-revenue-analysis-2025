@@ -33,6 +33,6 @@ Phân tích dữ liệu doanh thu phim trong năm 2025 theo:
 - Số rạp chiếu không phải lúc nào cũng tăng doanh thu → cần dựa vào nhu cầu thực tế và độ nổi bật của phim.
 - Xu hướng này cho thấy: để tối ưu lợi nhuận, nhà phát hành nên tập trung phát hành phim viral vào các tháng cao điểm và theo dõi sát phản ứng thị trường từng tháng.
 ### Files
-- `movie_analysis.ipynb` — notebook phân tích
+- `python.ipynb` — notebook phân tích
 - `data.csv` — dữ liệu gốc
 
